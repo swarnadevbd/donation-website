@@ -186,3 +186,13 @@ form {
     background-color: aliceblue;
     padding-bottom: 50px;
 }
+
+.gallery {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 50px;
+}
+
+.gallery-img {
+    padding-right: 40px;
+}
