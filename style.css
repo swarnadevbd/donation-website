@@ -174,3 +174,10 @@ input[type=text] {
 form {
     padding-bottom: 30px;
 }
+
+.newsletter-section {
+    padding-top: 50px;
+    margin: auto;
+    text-align: center;
+    background-color: aliceblue;
+}
