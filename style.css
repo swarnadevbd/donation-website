@@ -1,0 +1,176 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+
+h1 {
+    font-size: 50px;
+    margin: 0px;
+}
+
+.slider-section {
+    background-image: url(images/donation7.jpg);
+    height: 500px;
+}
+
+.slider-contents {
+    text-align: center;
+    padding-top: 200px;
+    color: white;
+}
+
+.slider-contents p {
+    padding-bottom: 30px;
+}
+
+.donate-button {
+    text-decoration: none;
+    background-color: rgb(255, 78, 96);
+    padding: 15px 20px;
+    border-radius: 5px;
+    color: white;
+
+}
+
+.donation-section {
+    padding-top: 100px;
+    margin: auto;
+    text-align: center;
+}
+
+.amount-boxes {
+    padding-top: 50px;
+    margin: auto;
+    justify-content: center;
+    display: flex;
+    padding-bottom: 50px;
+
+}
+
+.box-1,
+.box-3,
+.box-4,
+.box-5 {
+    width: 5%;
+    background-color: rgb(234, 234, 234);
+}
+
+.box-2 {
+    width: 5%;
+    background-color: rgb(255, 216, 216);
+    border: 2px solid rgb(255, 130, 130);
+}
+
+.boxes {
+    margin-right: 20px;
+    padding: 10px 20px;
+}
+
+.calculation {
+    margin: auto;
+    text-align: center;
+}
+
+.flexible-container {
+    display: flex;
+    margin-bottom: 150PX;
+    justify-content: center;
+}
+
+.half-width {
+    width: 40%;
+    padding-left: 2%;
+}
+
+.half-width img {
+    width: 80%;
+}
+
+.half-width-2 {
+    width: 40%;
+
+
+}
+
+.half-width-2 img {
+    width: 80%;
+    padding-left: 27px;
+}
+
+.division-2 {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 150px;
+    padding-top: 70px;
+}
+
+.cards {
+    width: 22%;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.icons {
+    width: 20%;
+}
+
+#shelter-block {
+    background-color: rgb(244, 255, 255);
+    box-shadow: 10px 10px 20px rgb(167, 226, 216);
+
+}
+
+#education {
+    background-color: rgb(255, 236, 254);
+    box-shadow: 10px 10px 20px rgb(226, 167, 167);
+}
+
+#food-block {
+    background-color: rgb(255, 244, 234);
+    box-shadow: 10px 10px 20px rgb(250, 231, 215);
+}
+
+.para-1 {
+    padding-bottom: 30px;
+}
+
+footer {
+    height: 150px;
+    background-color: rgb(21, 25, 36);
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+
+footer h2 {
+    text-align: center;
+    margin-bottom: 0;
+    color: tomato;
+}
+
+footer p {
+    text-align: center;
+}
+
+.footer-subtitle {
+    margin-top: 0;
+}
+
+input[type=text] {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid rgb(236, 236, 236);
+}
+
+form {
+    padding-bottom: 30px;
+}
